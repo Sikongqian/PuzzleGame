@@ -4,4 +4,7 @@
 ## 贡献者
 https://github.com/2513362477
 
+https://github.com/JankoTian
+
+https://github.com/SinomiyaKaguya
 
